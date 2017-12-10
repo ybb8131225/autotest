@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [KeepTestApp]">
+  <parameter name="password" value="786946"/>
+  <parameter name="channel" value="ios"/>
+  <parameter name="url" value="http://10.2.0.57:4723/wd/hub"/>
+  <parameter name="username" value="18600234970"/>
+  <test name="KeepTestApp(failed)">
+    <classes>
+      <class name="runcase.Main">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- runcase.Main -->
+    </classes>
+  </test> <!-- KeepTestApp(failed) -->
+</suite> <!-- Failed suite [KeepTestApp] -->

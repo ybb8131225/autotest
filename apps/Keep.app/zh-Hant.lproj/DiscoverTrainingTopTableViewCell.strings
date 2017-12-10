@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "为你推荐的训练"; ObjectID = "Igy-82-IVh"; */
+"Igy-82-IVh.text" = "爲你推薦的訓練";
+
+/* Class = "UILabel"; text = "音乐库"; ObjectID = "Qbc-XA-Smv"; */
+"Qbc-XA-Smv.text" = "音樂庫";
+
+/* Class = "UILabel"; text = "动作库"; ObjectID = "SaF-y0-gRl"; */
+"SaF-y0-gRl.text" = "動作庫";
+
+/* Class = "UILabel"; text = "最新上架"; ObjectID = "zNh-qT-Mf5"; */
+"zNh-qT-Mf5.text" = "最新上架";

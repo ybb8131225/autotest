@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "动作"; ObjectID = "15e-qJ-n9p"; */
+"15e-qJ-n9p.text" = "动作";
+
+/* Class = "UILabel"; text = "消耗"; ObjectID = "2uG-D0-Pjx"; */
+"2uG-D0-Pjx.text" = "消耗";
+
+/* Class = "UILabel"; text = "7组"; ObjectID = "GQF-TW-MqE"; */
+"GQF-TW-MqE.text" = "7组";
+
+/* Class = "UILabel"; text = "你完成了第22天训练"; ObjectID = "S7h-lg-rEg"; */
+"S7h-lg-rEg.text" = "你完成了第22天训练";
+
+/* Class = "UILabel"; text = "感觉如何"; ObjectID = "WIM-Mb-eNo"; */
+"WIM-Mb-eNo.text" = "感觉如何";
+
+/* Class = "UILabel"; text = "45分"; ObjectID = "bP1-6x-jYZ"; */
+"bP1-6x-jYZ.text" = "45分";
+
+/* Class = "UIButton"; normalTitle = "下一训练"; ObjectID = "bfw-Sk-1eC"; */
+"bfw-Sk-1eC.normalTitle" = "下一训练";
+
+/* Class = "UIButton"; normalTitle = "立即重试"; ObjectID = "eF5-um-cpl"; */
+"eF5-um-cpl.normalTitle" = "立即重试";
+
+/* Class = "UIButton"; normalTitle = "继续"; ObjectID = "gP8-WJ-WaC"; */
+"gP8-WJ-WaC.normalTitle" = "继续";
+
+/* Class = "UIButton"; normalTitle = "稍后上传"; ObjectID = "hXV-Gz-gsQ"; */
+"hXV-Gz-gsQ.normalTitle" = "稍后上传";
+
+/* Class = "UILabel"; text = "120 千卡"; ObjectID = "ijN-Ih-D6w"; */
+"ijN-Ih-D6w.text" = "120 千卡";
+
+/* Class = "UILabel"; text = "时长"; ObjectID = "jmr-Mv-gaD"; */
+"jmr-Mv-gaD.text" = "时长";

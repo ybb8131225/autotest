@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Start 登录测试 <br>]]>
+    </line>
+    <line>
+      <![CDATA[没有开屏广告<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="KeepTestApp" duration-ms="66340" started-at="2017-11-29T09:10:45Z" finished-at="2017-11-29T09:11:51Z">
+    <groups>
+      <group name="all">
+        <method signature="Main.testLogin(java.lang.String, java.lang.String)[pri:0, instance:runcase.Main@7f560810]" name="testLogin" class="runcase.Main"/>
+      </group> <!-- all -->
+      <group name="login">
+        <method signature="Main.testLogin(java.lang.String, java.lang.String)[pri:0, instance:runcase.Main@7f560810]" name="testLogin" class="runcase.Main"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="KeepTestApp" duration-ms="66340" started-at="2017-11-29T09:10:45Z" finished-at="2017-11-29T09:11:51Z">
+      <class name="runcase.Main">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:runcase.Main@7f560810]" name="setup" is-config="true" duration-ms="35856" started-at="2017-11-29T17:10:45Z" finished-at="2017-11-29T17:11:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://10.2.4.172:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:runcase.Main@7f560810]" name="testLogin" duration-ms="26676" started-at="2017-11-29T17:11:21Z" finished-at="2017-11-29T17:11:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18600234970]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[786946]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Start 登录测试 <br>]]>
+            </line>
+            <line>
+              <![CDATA[没有开屏广告<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="thearDown()[pri:0, instance:runcase.Main@7f560810]" name="thearDown" is-config="true" duration-ms="3798" started-at="2017-11-29T17:11:48Z" finished-at="2017-11-29T17:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thearDown -->
+      </class> <!-- runcase.Main -->
+    </test> <!-- KeepTestApp -->
+  </suite> <!-- KeepTestApp -->
+</testng-results>

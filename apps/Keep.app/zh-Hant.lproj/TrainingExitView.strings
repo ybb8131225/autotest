@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "今日数值"; ObjectID = "4Re-Sb-JZI"; */
+"4Re-Sb-JZI.text" = "今日數值";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7yy-YE-XeS"; */
+"7yy-YE-XeS.text" = "0";
+
+/* Class = "UILabel"; text = "分"; ObjectID = "8WI-Q3-IHc"; */
+"8WI-Q3-IHc.text" = "分";
+
+/* Class = "UILabel"; text = "此次训练未完成"; ObjectID = "9H0-C9-w7H"; */
+"9H0-C9-w7H.text" = "此次訓練未完成";
+
+/* Class = "UILabel"; text = "再接再厉"; ObjectID = "BZf-dW-zVq"; */
+"BZf-dW-zVq.text" = "再接再厲";
+
+/* Class = "UILabel"; text = "消耗"; ObjectID = "DOL-2U-vwn"; */
+"DOL-2U-vwn.text" = "消耗";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "E8E-SR-YsK"; */
+"E8E-SR-YsK.text" = "0";
+
+/* Class = "UILabel"; text = "组"; ObjectID = "MMX-zl-azo"; */
+"MMX-zl-azo.text" = "組";
+
+/* Class = "UILabel"; text = "时长"; ObjectID = "MP7-tB-auo"; */
+"MP7-tB-auo.text" = "時長";
+
+/* Class = "UILabel"; text = "千卡"; ObjectID = "c5q-ST-tvP"; */
+"c5q-ST-tvP.text" = "千卡";
+
+/* Class = "UILabel"; text = "动作"; ObjectID = "rcS-sA-aZm"; */
+"rcS-sA-aZm.text" = "動作";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ssL-04-1cc"; */
+"ssL-04-1cc.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "zLS-sa-hJ9"; */
+"zLS-sa-hJ9.normalTitle" = "確定";

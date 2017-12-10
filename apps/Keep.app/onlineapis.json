@@ -1,0 +1,9 @@
+{
+    "name": "online",
+    "apis": {
+        "api": "https://api.gotokeep.com",
+        "show": "https://show.gotokeep.com",
+        "store": "https://store.gotokeep.com",
+        "apm": "https://apm.gotokeep.com"
+    }
+}

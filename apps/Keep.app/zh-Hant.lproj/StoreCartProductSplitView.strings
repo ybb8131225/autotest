@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "请分开结算以下商品"; ObjectID = "2vS-c2-wVz"; */
+"2vS-c2-wVz.text" = "請分開結算以下商品";
+
+/* Class = "UILabel"; text = "海外购商品"; ObjectID = "Jvj-RE-i6p"; */
+"Jvj-RE-i6p.text" = "海外購商品";
+
+/* Class = "UIButton"; normalTitle = "去结算"; ObjectID = "Qhx-xg-GwK"; */
+"Qhx-xg-GwK.normalTitle" = "去結算";
+
+/* Class = "UIButton"; normalTitle = "返回购物车"; ObjectID = "rKc-pc-G2f"; */
+"rKc-pc-G2f.normalTitle" = "返回購物車";
+
+/* Class = "UILabel"; text = "共计0件"; ObjectID = "tiY-WA-ZwO"; */
+"tiY-WA-ZwO.text" = "共計0件";

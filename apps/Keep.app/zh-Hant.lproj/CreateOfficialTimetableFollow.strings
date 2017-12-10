@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "0Gb-Zc-LMy"; */
+"0Gb-Zc-LMy.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "自定義課程表"; ObjectID = "4n8-Rl-DDQ"; */
+"4n8-Rl-DDQ.normalTitle" = "自定義課程表";
+
+/* Class = "UIButton"; normalTitle = "獲取 Keep 課程表"; ObjectID = "8Ln-as-eYm"; */
+"8Ln-as-eYm.normalTitle" = "獲取 Keep 課程表";
+
+/* Class = "UIButton"; normalTitle = "查看課程表"; ObjectID = "9VK-qa-9kp"; */
+"9VK-qa-9kp.normalTitle" = "查看課程表";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "BUQ-2i-IMf"; */
+"BUQ-2i-IMf.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "為盲目跑步的你\n提供科學系統的訓練計劃\n幫你養成良好的跑步習慣"; ObjectID = "IdI-dN-yyG"; */
+"IdI-dN-yyG.text" = "為盲目跑步的你\n提供科學系統的訓練計劃\n幫你養成良好的跑步習慣";
+
+/* Class = "UIButton"; normalTitle = "戶外跑步課程表"; ObjectID = "UAL-kE-AeZ"; */
+"UAL-kE-AeZ.normalTitle" = "戶外跑步課程表";
+
+/* Class = "UILabel"; text = "選擇接下來的跑步課程吧"; ObjectID = "aql-tl-oHj"; */
+"aql-tl-oHj.text" = "選擇接下來的跑步課程吧";
+
+/* Class = "UILabel"; text = "獲取 2-4 周 Keep 訓練課程表 \n或靈活自定義每周訓練安排 \n全程科學訓練指導 達成理想身材"; ObjectID = "by4-U3-NaE"; */
+"by4-U3-NaE.text" = "獲取 2-4 周 Keep 訓練課程表 \n或靈活自定義每周訓練安排 \n全程科學訓練指導 達成理想身材";
+
+/* Class = "UIButton"; normalTitle = "訓練課程表"; ObjectID = "pgb-3d-3s7"; */
+"pgb-3d-3s7.normalTitle" = "訓練課程表";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "wge-9d-3hr"; */
+"wge-9d-3hr.normalTitle" = "下一步";

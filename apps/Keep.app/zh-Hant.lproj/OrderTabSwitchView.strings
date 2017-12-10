@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "售后"; ObjectID = "1Ub-0N-013"; */
+"1Ub-0N-013.normalTitle" = "售後";
+
+/* Class = "UIButton"; normalTitle = "待支付"; ObjectID = "KUJ-NX-7Tw"; */
+"KUJ-NX-7Tw.normalTitle" = "待支付";
+
+/* Class = "UIButton"; normalTitle = "全部"; ObjectID = "MpR-xE-6zL"; */
+"MpR-xE-6zL.normalTitle" = "全部";
+
+/* Class = "UIButton"; normalTitle = "待签收"; ObjectID = "XJy-0S-dpI"; */
+"XJy-0S-dpI.normalTitle" = "待簽收";
+
+/* Class = "UIButton"; normalTitle = "已签收"; ObjectID = "zZm-PA-vnO"; */
+"zZm-PA-vnO.normalTitle" = "已簽收";

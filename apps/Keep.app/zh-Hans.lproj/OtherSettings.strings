@@ -1,0 +1,49 @@
+
+/* Class = "UILabel"; text = "清空训练缓存"; ObjectID = "3EO-8f-XXR"; */
+"3EO-8f-XXR.text" = "清空社区缓存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3nh-av-oNQ"; */
+"3nh-av-oNQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "去连接"; ObjectID = "9Px-TV-yyM"; */
+"9Px-TV-yyM.normalTitle" = "去连接";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CCd-b3-PXs"; */
+"CCd-b3-PXs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "开始诊断"; ObjectID = "GUz-7h-td1"; */
+"GUz-7h-td1.normalTitle" = "开始诊断";
+
+/* Class = "UILabel"; text = "清空课程音乐"; ObjectID = "HQA-oO-gJH"; */
+"HQA-oO-gJH.text" = "清空课程音乐";
+
+/* Class = "UILabel"; text = "清空社区缓存"; ObjectID = "JAS-Wt-YP7"; */
+"JAS-Wt-YP7.text" = "训练缓存管理";
+
+/* Class = "UILabel"; text = "Lovely Made by Calorie Tech in Beijing                  ©2014 -2016 All Rights Reserved."; ObjectID = "Khn-8W-ENJ"; */
+"Khn-8W-ENJ.text" = "Lovely Made by Calorie Tech in Beijing                  ©2014 -2016 All Rights Reserved.";
+
+/* Class = "UILabel"; text = "清空其他缓存"; ObjectID = "TnZ-DP-iIe"; */
+"TnZ-DP-iIe.text" = "清空其他缓存";
+
+/* Class = "UILabel"; text = "连接「健康」后，Keep 会同步你的训练数据、身高和体重等数据到健康中心。在这之后，你也可以进入「健康」的数据来源，来选择是否同步 Keep 数据到「健康」。"; ObjectID = "Ygz-Xm-0Qd"; */
+"Ygz-Xm-0Qd.text" = "连接「健康」后，Keep 会同步你的训练数据、身高和体重等数据到健康中心。在这之后，你也可以进入「健康」的数据来源，来选择是否同步 Keep 数据到「健康」。";
+
+/* Class = "UILabel"; text = "Keep v1.0"; ObjectID = "Zhn-c8-0UV"; */
+"Zhn-c8-0UV.text" = "Keep v1.0";
+
+/* Class = "UILabel"; text = "如果出现网络连接问题，比如图片加载不出来，视频下载失败等，或者服务器出错的提示，你可以尝试进行网络诊断，网络诊断的结果仅供问题分析使用。"; ObjectID = "ZvG-e6-EXL"; */
+"ZvG-e6-EXL.text" = "如果出现网络连接问题，比如图片加载不出来，视频下载失败等，或者服务器出错的提示，你可以尝试进行网络诊断，网络诊断的结果仅供问题分析使用。";
+
+/* Class = "UIViewController"; title = "连接「健康」"; ObjectID = "g4d-wb-lhf"; */
+"g4d-wb-lhf.title" = "连接「健康」";
+
+/* Class = "UILabel"; text = "个人资料"; ObjectID = "vX3-LD-a8o"; */
+"vX3-LD-a8o.text" = "个人资料";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabel"; ObjectID = "zDo-os-KPt"; */
+"zDo-os-KPt.text" = "LabelLabelLabelLabel";
+
+/* Class = "UILabel"; text = "清空跑步语音"; ObjectID = "KPa-pS-mZM"; */
+"KPa-pS-mZM.text" = "清空跑步语音";
+

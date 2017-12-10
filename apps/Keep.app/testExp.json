@@ -1,0 +1,60 @@
+{
+    "data": {
+        "expInfo": {
+            "firstTime": true,
+            "keepValue": 1.2,
+            "totalValue": 66,
+            "keepInfo": {
+                "avatar": "头像url",
+                "desc":"坚持锻炼3天",
+                "increase": null,
+                "maxKeepValue": 1.7,
+                "subDesc" : "倍坚持值系数"
+            },
+            "praiseInfo": {
+                "desc": "表扬你的坚持锻炼",
+                "picture": ""
+            },
+            "expItems": [{
+                         "desc": "锻炼了23分钟",
+                         "baseValue": 100,
+                         "value": 160
+                         },{
+                         "desc": "首次尝试腹肌撕裂者训练",
+                         "baseValue": 50,
+                         "value": 80
+                         }],
+            "levelInfo": {
+                "originExpValue":3200,
+                "currentExpValue":4300,
+                "originLevel": 12,
+                "currentLevel": 13,
+                "levels": [{
+                           "value": 12,
+                           "threshold": 3000,
+                           "name": "KG.12"
+                           },{
+                           "value": 13,
+                           "threshold": 4000,
+                           "name": "KG.13"
+                           },{
+                           "value": 14,
+                           "threshold": 5000,
+                           "name": "KG.14"
+                           }]
+            }
+        },
+        "state": "inprogress/new/none",
+        "waitDuration": 500
+    },
+    "errorCode": 0,
+    "now": "string",
+    "ok": true,
+    "text": "string",
+    "version": "string"
+}
+
+
+
+
+

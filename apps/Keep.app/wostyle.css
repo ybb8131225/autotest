@@ -1,0 +1,64 @@
+<style type="text/css">
+html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+body{
+    margin: 0;
+}
+h4{
+    font-family:PingFangSC-Regular;
+    font-size:17px;
+    color:#333333;
+    line-height:20px;
+    text-align:left;
+    margin: 40px 25px 10px;
+}
+ul,ol{
+    font-family:PingFangSC-Regular;
+    font-size:13px;
+    color:#666666;
+    line-height:24px;
+    text-align:left;
+    margin:0 25px;
+    padding-left: 12px;
+}
+li{
+    list-style-type: none;
+    position: relative; 
+}
+li::before{
+    content:'';
+    position: absolute;
+    top: 11px;
+    left: -11px;
+    width: 3px;
+    height: 3px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAABGdBTUEAALGPC/xhBQAAAIBJREFUGBljZACCVatWMe/bt6/4////YUCuOhDfZGRkXOXk5NQbFhb2lxGkYO/evXuAChyAkigAqPCAs7OzC7OwsHApUEEqiiyCo/DgwYOvTFArEMJoLJA8E1AM5AZ8QB2k6CY+FSB5JpAv8CkCyTOBvAnyBTaFIHGwPEiSUDgBABDgOgP5tdJKAAAAAElFTkSuQmCC') center no-repeat;
+    background-size: 3px 3px;
+}
+a{
+    font-family:PingFangSC-Regular;
+    font-size: 12px;
+    line-height: 20px;
+    color: #24c789;
+    margin: 10px 25px 15px 0;
+    text-decoration: none;
+}
+img{
+    display: block;
+    max-width: 300px;
+    margin:15px 25px 40px 0;
+    border-radius: 5px 5px;
+}
+p{
+    font-family:PingFangSC-Regular;
+    font-size:13px;
+    color:#666666;
+    line-height:20px;
+    text-align:left;
+    margin:0 25px;
+}
+</style>

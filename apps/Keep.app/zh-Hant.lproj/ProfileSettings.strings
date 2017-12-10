@@ -1,0 +1,170 @@
+
+/* Class = "UIButton"; normalTitle = "獲取驗證碼"; ObjectID = "3EU-5e-XrA"; */
+"3EU-5e-XrA.normalTitle" = "獲取驗證碼";
+
+/* Class = "UILabel"; text = "消息"; ObjectID = "4mQ-F4-0Lq"; */
+"4mQ-F4-0Lq.text" = "消息";
+
+/* Class = "UILabel"; text = "你已用手機號登陸Keep"; ObjectID = "5e2-Qm-s3N"; */
+"5e2-Qm-s3N.text" = "你已用手機號登陸Keep";
+
+/* Class = "UILabel"; text = "加油"; ObjectID = "6K9-Qk-2RL"; */
+"6K9-Qk-2RL.text" = "加油";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "759-g6-m4y"; */
+"759-g6-m4y.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "加油"; ObjectID = "765-Mx-Cs3"; */
+"765-Mx-Cs3.text" = "加油";
+
+/* Class = "UILabel"; text = "關閉之後不會收到未關注對象發的消息"; ObjectID = "7WM-wE-5wq"; */
+"7WM-wE-5wq.text" = "關閉之後不會收到未關注對象發的消息";
+
+/* Class = "UILabel"; text = "關閉之後將不會被通訊錄好友找到"; ObjectID = "8eM-1H-xZJ"; */
+"8eM-1H-xZJ.text" = "關閉之後將不會被通訊錄好友找到";
+
+"mMv-Ph-wSN.text" = "每天";
+
+/* Class = "UIBarButtonItem"; title = "切換"; ObjectID = "9Y7-p4-THe"; */
+"9Y7-p4-THe.title" = "切換";
+
+/* Class = "UILabel"; text = "關閉之後將不會被微博好友找到"; ObjectID = "A0p-6C-yxl"; */
+"A0p-6C-yxl.text" = "關閉之後將不會被微博好友找到";
+
+/* Class = "UILabel"; text = "驗證碼"; ObjectID = "Cpc-T8-iDD"; */
+"Cpc-T8-iDD.text" = "驗證碼";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "CxS-5p-a5T"; */
+"CxS-5p-a5T.text" = "+86";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "D0S-w0-MVs"; */
+"D0S-w0-MVs.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "第三方賬號綁定"; ObjectID = "H25-fo-0Fn"; */
+"H25-fo-0Fn.text" = "第三方賬號綁定";
+
+/* Class = "UILabel"; text = "新密碼"; ObjectID = "HKi-O0-QAz"; */
+"HKi-O0-QAz.text" = "新密碼";
+
+/* Class = "UILabel"; text = "是否接收未關注對象消息"; ObjectID = "HwD-6M-tTD"; */
+"HwD-6M-tTD.text" = "是否接收未關注對象消息";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "I7s-py-7dj"; */
+"I7s-py-7dj.text" = "+86";
+
+/* Class = "UILabel"; text = "手機號"; ObjectID = "L3n-Ou-Bek"; */
+"L3n-Ou-Bek.text" = "手機號";
+
+/* Class = "UILabel"; text = "有人關注你、發消息給你，評論或者為你加油打氣，會收到推送"; ObjectID = "Lka-Sq-NLp"; */
+"Lka-Sq-NLp.text" = "有人關注你、發消息給你，評論或者為你加油打氣，會收到推送";
+
+/* Class = "UILabel"; text = "舊手機號"; ObjectID = "LsM-wI-UhZ"; */
+"LsM-wI-UhZ.text" = "舊手機號";
+
+/* Class = "UILabel"; text = "Keep 的推送通知未打開，你可進入「設置」-「通知」中，找到 Keep 開啓通知。"; ObjectID = "M7V-Yb-2VM"; */
+"M7V-Yb-2VM.text" = "Keep 的推送通知未打開，你可進入「設置」-「通知」中，找到 Keep 開啓通知。";
+
+/* Class = "UILabel"; text = "粉絲"; ObjectID = "N32-NJ-phc"; */
+"N32-NJ-phc.text" = "粉絲";
+
+/* Class = "UILabel"; text = "訓練提醒"; ObjectID = "NNA-Dp-WtS"; */
+"NNA-Dp-WtS.text" = "訓練提醒";
+
+/* Class = "UILabel"; text = "綁定第三方賬號後可以直接登錄 Keep"; ObjectID = "Nb3-FM-ram"; */
+"Nb3-FM-ram.text" = "綁定第三方賬號後可以直接登錄 Keep";
+
+/* Class = "UILabel"; text = "出現在附近的人中"; ObjectID = "PW5-wJ-7E6"; */
+"PW5-wJ-7E6.text" = "出現在附近的人中";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "QWq-jr-kyB"; */
+"QWq-jr-kyB.text" = "密碼";
+
+/* Class = "UILabel"; text = "確認密碼"; ObjectID = "RpD-sg-BGO"; */
+"RpD-sg-BGO.text" = "確認密碼";
+
+/* Class = "UILabel"; text = "微博 "; ObjectID = "Sve-7G-anM"; */
+"Sve-7G-anM.text" = "微博 ";
+
+/* Class = "UILabel"; text = "允許通過通訊錄找到我"; ObjectID = "VaV-hY-TOZ"; */
+"VaV-hY-TOZ.text" = "允許通過通訊錄找到我";
+
+/* Class = "UILabel"; text = "21:00"; ObjectID = "VzF-o7-DsC"; */
+"VzF-o7-DsC.text" = "21:00";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "X4H-sn-9ZP"; */
+"X4H-sn-9ZP.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "系統通知"; ObjectID = "XAo-zp-N3M"; */
+"XAo-zp-N3M.text" = "系統通知";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "Xtg-oN-Un5"; */
+"Xtg-oN-Un5.text" = "密碼";
+
+/* Class = "UILabel"; text = "每天定時推送訓練提醒"; ObjectID = "YCU-jS-gIL"; */
+"YCU-jS-gIL.text" = "每天定時推送訓練提醒";
+
+/* Class = "UILabel"; text = "允許通過微博找到我"; ObjectID = "Zmb-8f-ZxX"; */
+"Zmb-8f-ZxX.text" = "允許通過微博找到我";
+
+/* Class = "UILabel"; text = "微信"; ObjectID = "akz-F3-KsV"; */
+"akz-F3-KsV.text" = "微信";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "bab-Qh-Dro"; */
+"bab-Qh-Dro.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "21:00"; ObjectID = "bwz-mV-YA2"; */
+"bwz-mV-YA2.text" = "21:00";
+
+/* Class = "UILabel"; text = "添加提醒"; ObjectID = "c5R-cY-d65"; */
+"c5R-cY-d65.text" = "添加提醒";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "cfl-2r-xmv"; */
+"cfl-2r-xmv.text" = "Facebook";
+
+/* Class = "UILabel"; text = "評論與@"; ObjectID = "dzL-eo-GbA"; */
+"dzL-eo-GbA.text" = "評論與@";
+
+/* Class = "UILabel"; text = "原密碼"; ObjectID = "e2c-RJ-8HM"; */
+"e2c-RJ-8HM.text" = "原密碼";
+
+/* Class = "UILabel"; text = "手機號"; ObjectID = "ekj-Yc-100"; */
+"ekj-Yc-100.text" = "手機號";
+
+/* Class = "UILabel"; text = "添加手機號後可以直接使用手機號和密碼登錄 Keep"; ObjectID = "fAW-D8-1if"; */
+"fAW-D8-1if.text" = "添加手機號後可以直接使用手機號和密碼登錄 Keep";
+
+/* Class = "UIButton"; normalTitle = "獲取驗證碼"; ObjectID = "i0V-P1-F39"; */
+"i0V-P1-F39.normalTitle" = "獲取驗證碼";
+
+/* Class = "UILabel"; text = "訓練提醒"; ObjectID = "k0T-tb-Gvf"; */
+"k0T-tb-Gvf.text" = "訓練提醒";
+
+/* Class = "UILabel"; text = "QQ "; ObjectID = "lQb-K1-2mx"; */
+"lQb-K1-2mx.text" = "QQ ";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "lcY-7x-wrY"; */
+"lcY-7x-wrY.normalTitle" = "退出";
+
+/* Class = "UILabel"; text = "手機號丟失或停用"; ObjectID = "n6C-MN-L5E"; */
+"n6C-MN-L5E.text" = "手機號丟失或停用";
+
+/* Class = "UILabel"; text = "訓練提醒"; ObjectID = "o29-eJ-cBz"; */
+"o29-eJ-cBz.text" = "訓練提醒";
+
+/* Class = "UILabel"; text = "驗證碼"; ObjectID = "oex-pD-BZ8"; */
+"oex-pD-BZ8.text" = "驗證碼";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "ord-nC-Vu4"; */
+"ord-nC-Vu4.text" = "+86";
+
+/* Class = "UILabel"; text = "手機號"; ObjectID = "p2G-9l-1xV"; */
+"p2G-9l-1xV.text" = "手機號";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "qXE-EJ-lNU"; */
+"qXE-EJ-lNU.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "關閉之後將不會出現在「附近的人」中"; ObjectID = "tDt-aT-U06"; */
+"tDt-aT-U06.text" = "關閉之後將不會出現在「附近的人」中";
+
+/* Class = "UILabel"; text = "提醒時間"; ObjectID = "tv5-NW-FCo"; */
+"tv5-NW-FCo.text" = "提醒時間";

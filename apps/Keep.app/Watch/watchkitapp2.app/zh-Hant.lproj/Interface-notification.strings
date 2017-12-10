@@ -1,0 +1,43 @@
+
+/* Class = "WKInterfaceController"; title = "Keep"; ObjectID = "0tp-c9-A9w"; */
+"0tp-c9-A9w.title" = "Keep";
+
+/* Class = "WKInterfaceLabel"; text = "接下来sdfsfdsfsjhhjhhjjjhjhjhjhjhjhjhjhjhhj"; ObjectID = "1wP-mn-VFP"; */
+"1wP-mn-VFP.text" = "接下来sdfsfdsfsjhhjhhjjjhjhjhjhjhjhjhjhjhhj";
+
+/* Class = "WKInterfaceLabel"; text = "3"; ObjectID = "2wn-bW-W5P"; */
+"2wn-bW-W5P.text" = "3";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "61G-xu-wm6"; */
+"61G-xu-wm6.text" = "Label";
+
+/* Class = "WKInterfaceButton"; title = "好"; ObjectID = "8OE-lh-nyt"; */
+"8OE-lh-nyt.title" = "好";
+
+/* Class = "WKInterfaceLabel"; text = "请打开手机 Keep 上传数据"; ObjectID = "Gy5-R1-iLL"; */
+"Gy5-R1-iLL.text" = "請打開手機 Keep 上傳數據";
+
+/* Class = "WKInterfaceLabel"; text = "请在手机上打开 Keep\\n开始一个训练"; ObjectID = "H5L-F6-Cd2"; */
+"H5L-F6-Cd2.text" = "請在手機上打開 Keep\\n開始一個訓練";
+
+/* Class = "WKInterfaceLabel"; text = "一"; ObjectID = "Kqr-Hu-Fgw"; */
+"Kqr-Hu-Fgw.text" = "一";
+
+/* Class = "WKInterfaceButton"; title = "跳过休息"; ObjectID = "XGx-eL-Uj6"; */
+"XGx-eL-Uj6.title" = "跳過休息";
+
+/* Class = "WKInterfaceLabel"; text = "一"; ObjectID = "XNs-VQ-OYV"; */
+"XNs-VQ-OYV.text" = "一";
+
+/* Class = "WKInterfaceLabel"; text = "30"; ObjectID = "Xh1-yO-pGb"; */
+"Xh1-yO-pGb.text" = "30";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "XkS-y5-khE"; */
+"XkS-y5-khE.text" = "Alert Label";
+
+/* Class = "WKInterfaceButton"; title = "继续训练"; ObjectID = "dB3-0V-Qft"; */
+"dB3-0V-Qft.title" = "繼續訓練";
+
+/* Class = "WKInterfaceLabel"; text = "一"; ObjectID = "g0t-6Q-so7"; */
+"g0t-6Q-so7.text" = "一";
+

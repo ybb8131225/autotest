@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "為你推薦"; ObjectID = "6YU-Pr-ZFD"; */
+"6YU-Pr-ZFD.text" = "為你推薦";
+
+/* Class = "UIButton"; normalTitle = "開始瀏覽動態"; ObjectID = "JQ6-xm-pDc"; */
+"JQ6-xm-pDc.normalTitle" = "開始瀏覽動態";
+
+/* Class = "UILabel"; text = "你已經關註了所有推薦用戶，試著添加好友看看？"; ObjectID = "LYs-1w-laV"; */
+"LYs-1w-laV.text" = "你已經關註了所有推薦用戶，試著添加好友看看？";
+
+/* Class = "UILabel"; text = "       "; ObjectID = "TQ5-lq-WqV"; */
+"TQ5-lq-WqV.text" = "       ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "o7N-RQ-932"; */
+"o7N-RQ-932.text" = "Label";
+
+/* Class = "UILabel"; text = "無照片"; ObjectID = "so5-M1-Lkn"; */
+"so5-M1-Lkn.text" = "無照片";

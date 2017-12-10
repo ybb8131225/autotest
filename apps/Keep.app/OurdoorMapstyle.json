@@ -1,0 +1,119 @@
+{
+    "data": [
+             {
+             "id": "57ce3e8d0110b2d67d1336c1",
+             "title": "Street",
+             "pathColor": {
+             "fastPathColor": {
+             "r": 44,
+             "g": 226,
+             "b": 255
+             },
+             "normalPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "slowPathColor": {
+             "r": 243,
+             "g": 82,
+             "b": 82
+             }
+             },
+             "cover": "http://static1.keepcdn.com/2017/08/11/18/1502448722283_1200x1200.jpg",
+             "style": "keep",
+             "order": 0,
+             "type": [
+                      "run",
+                      "cycling"
+                      ]
+             },
+             {
+             "id": "57ce6217c7ea2ec20930e3b6",
+             "title": "Arrow Factory",
+             "pathColor": {
+             "fastPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "normalPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "slowPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             }
+             },
+             "cover": "http://static1.keepcdn.com/2017/08/11/18/1502448580489_1600x1600.jpg",
+             "style": "mapbox://styles/keeptech/cisv3km0100042wryuv0mjgjd",
+             "order": 1,
+             "type": [
+                      "run",
+                      "cycling"
+                      ]
+             },
+             {
+             "id": "57ce5e8396ea670109d5bd4f",
+             "title": "Gotham",
+             "pathColor": {
+             "fastPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "normalPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "slowPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             }
+             },
+             "cover": "http://static1.keepcdn.com/2017/08/11/18/1502448569780_1200x1200.jpg",
+             "style": "mapbox://styles/keeptech/cisv3v5to00052wmoghm1cyze",
+             "order": 2,
+             "type": [
+                      "run",
+                      "cycling"
+                      ]
+             },
+             {
+             "id": "57ce5efec7ea2ec20930e3b2",
+             "title": "Udaipur",
+             "pathColor": {
+             "fastPathColor": {
+             "r": 44,
+             "g": 226,
+             "b": 255
+             },
+             "normalPathColor": {
+             "r": 36,
+             "g": 199,
+             "b": 137
+             },
+             "slowPathColor": {
+             "r": 243,
+             "g": 82,
+             "b": 82
+             }
+             },
+             "cover": "http://static1.keepcdn.com/2017/08/11/18/1502448601505_1200x1200.jpg",
+             "style": "mapbox://styles/keeptech/cisv3uq6r00052wry4ailqvyr",
+             "order": 3,
+             "type": [
+                      "run",
+                      "cycling"
+                      ]
+             }
+             ],
+    "errorCode": 0,
+    "text": null,
+    "ok": true
+}

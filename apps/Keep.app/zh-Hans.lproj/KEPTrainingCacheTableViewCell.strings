@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3L6-yJ-ygW"; */
+"3L6-yJ-ygW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LaY-Mo-XlV"; */
+"LaY-Mo-XlV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ogo-sO-beQ"; */
+"Ogo-sO-beQ.text" = "使用中的视频";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X3p-2f-EeC"; */
+"X3p-2f-EeC.text" = "课程之间会共用一部分动作的视频，为了不影响其他课程视频的缓存，可清除大小不包括被共用的视频内容。";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bnU-x9-Qi0"; */
+"bnU-x9-Qi0.text" = "清除无用的视频";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k7B-wV-PuH"; */
+"k7B-wV-PuH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t7r-up-OX7"; */
+"t7r-up-OX7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zq0-gf-mCR"; */
+"zq0-gf-mCR.text" = "Label";

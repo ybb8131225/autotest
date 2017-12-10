@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "重置"; ObjectID = "AND-6D-mLL"; */
+"AND-6D-mLL.normalTitle" = "重置";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "IdC-cY-I1t"; */
+"IdC-cY-I1t.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "难度"; ObjectID = "eWp-P7-mdl"; */
+"eWp-P7-mdl.text" = "难度";
+
+/* Class = "UILabel"; text = "部位"; ObjectID = "fW7-Sg-ZcV"; */
+"fW7-Sg-ZcV.text" = "部位";
+
+/* Class = "UILabel"; text = "器械"; ObjectID = "xf8-BE-Laq"; */
+"xf8-BE-Laq.text" = "器械";

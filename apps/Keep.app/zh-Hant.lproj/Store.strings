@@ -1,0 +1,321 @@
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "04J-iz-uaV"; */
+"04J-iz-uaV.text" = "￥1222222";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0NN-CK-YMw"; */
+"0NN-CK-YMw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "售后"; ObjectID = "0wy-L5-9p1"; */
+"0wy-L5-9p1.normalTitle" = "售後";
+
+/* Class = "UILabel"; text = "退货说明"; ObjectID = "1jq-8z-r3d"; */
+"1jq-8z-r3d.text" = "退貨說明";
+
+/* Class = "UILabel"; text = "赠品"; ObjectID = "2mY-wC-xfJ"; */
+"2mY-wC-xfJ.text" = "贈品";
+
+/* Class = "UILabel"; text = "满减"; ObjectID = "3Aq-Ah-Qad"; */
+"3Aq-Ah-Qad.text" = "滿減";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "4gV-kK-XM7"; */
+"4gV-kK-XM7.text" = "x1";
+
+/* Class = "UILabel"; text = "￥1234567"; ObjectID = "5dh-is-vdu"; */
+"5dh-is-vdu.text" = "￥1234567";
+
+/* Class = "UILabel"; text = "全选"; ObjectID = "68l-ms-s5l"; */
+"68l-ms-s5l.text" = "全選";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6lV-8j-Zpm"; */
+"6lV-8j-Zpm.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "6vy-gP-J1s"; */
+"6vy-gP-J1s.text" = " ";
+
+/* Class = "UILabel"; text = "收货人"; ObjectID = "7i2-GJ-e9F"; */
+"7i2-GJ-e9F.text" = "收貨人";
+
+/* Class = "UILabel"; text = "(海关清关需要，收件姓名与身份信息必须一致）"; ObjectID = "8II-fo-ciO"; */
+"8II-fo-ciO.text" = "(海關清關需要，收件姓名與身份信息必須一致）";
+
+/* Class = "UILabel"; text = "大大大滴滴答答"; ObjectID = "8Op-zH-JXL"; */
+"8Op-zH-JXL.text" = "大大大滴滴答答";
+
+/* Class = "UILabel"; text = "电话：123"; ObjectID = "8Ov-Xb-HyX"; */
+"8Ov-Xb-HyX.text" = "電話：123";
+
+/* Class = "UILabel"; text = "赠品"; ObjectID = "8Qp-QX-osF"; */
+"8Qp-QX-osF.text" = "贈品";
+
+/* Class = "UILabel"; text = "配送地址:北京雍和别墅301"; ObjectID = "9fg-Yu-ZBk"; */
+"9fg-Yu-ZBk.text" = "配送地址:北京雍和別墅301";
+
+/* Class = "UIButton"; normalTitle = "提交订单"; ObjectID = "9zh-CU-vne"; */
+"9zh-CU-vne.normalTitle" = "提交訂單";
+
+/* Class = "UILabel"; text = "￥0"; ObjectID = "Ba6-NR-Fvd"; */
+"Ba6-NR-Fvd.text" = "￥0";
+
+/* Class = "UIButton"; normalTitle = "结算"; ObjectID = "Cd5-hy-ag2"; */
+"Cd5-hy-ag2.normalTitle" = "結算";
+
+/* Class = "UIButton"; normalTitle = "取消订单"; ObjectID = "E7B-Y9-Rs3"; */
+"E7B-Y9-Rs3.normalTitle" = "取消訂單";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GH5-xf-D2u"; */
+"GH5-xf-D2u.text" = "Label";
+
+/* Class = "UILabel"; text = "x2"; ObjectID = "GOo-6B-Zd7"; */
+"GOo-6B-Zd7.text" = "x2";
+
+/* Class = "UILabel"; text = "x2"; ObjectID = "HXM-3m-2a5"; */
+"HXM-3m-2a5.text" = "x2";
+
+/* Class = "UILabel"; text = "Labelsdfdfdsfdsfdsfdsfdsf"; ObjectID = "IaF-R9-3Ba"; */
+"IaF-R9-3Ba.text" = "Labelsdfdfdsfdsfdsfdsfdsf";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JfL-CE-APu"; */
+"JfL-CE-APu.text" = "Label";
+
+/* Class = "UILabel"; text = "已签收"; ObjectID = "Jgv-dR-d3a"; */
+"Jgv-dR-d3a.text" = "已簽收";
+
+/* Class = "UILabel"; text = "收件人：王宁"; ObjectID = "K1V-aP-XxV"; */
+"K1V-aP-XxV.text" = "收件人：王寧";
+
+/* Class = "UILabel"; text = "单笔订单满200元，立减10元"; ObjectID = "KTC-VC-58j"; */
+"KTC-VC-58j.text" = "單筆訂單滿200元，立減10元";
+
+/* Class = "UILabel"; text = "失效"; ObjectID = "KX5-uW-3gq"; */
+"KX5-uW-3gq.text" = "失效";
+
+/* Class = "UILabel"; text = "Labelsdfdfdsfdsfdsfdsfdsf"; ObjectID = "Khc-eU-zXL"; */
+"Khc-eU-zXL.text" = "Labelsdfdfdsfdsfdsfdsfdsf";
+
+/* Class = "UILabel"; text = "物流单号："; ObjectID = "Kvf-fy-W7r"; */
+"Kvf-fy-W7r.text" = "物流單號：";
+
+/* Class = "UILabel"; text = " "; ObjectID = "LNr-0z-dZ7"; */
+"LNr-0z-dZ7.text" = " ";
+
+/* Class = "UILabel"; text = "x2"; ObjectID = "LlI-sQ-dmw"; */
+"LlI-sQ-dmw.text" = "x2";
+
+/* Class = "UILabel"; text = "请选择快递公司"; ObjectID = "MdH-z7-Rb5"; */
+"MdH-z7-Rb5.text" = "請選擇快遞公司";
+
+/* Class = "UILabel"; text = "Labeldf"; ObjectID = "Mdk-OK-NlS"; */
+"Mdk-OK-NlS.text" = "Labeldf";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NON-aj-jQk"; */
+"NON-aj-jQk.text" = "Label";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "NQg-rv-f5y"; */
+"NQg-rv-f5y.text" = "￥1222222";
+
+/* Class = "UILabel"; text = "等待客服处理"; ObjectID = "Ou3-mE-b2K"; */
+"Ou3-mE-b2K.text" = "等待客服處理";
+
+/* Class = "UITextField"; placeholder = "请填写收货手机号"; ObjectID = "P5L-o5-ZR0"; */
+"P5L-o5-ZR0.placeholder" = "請填寫收貨手機號";
+
+/* Class = "UILabel"; text = "快递单号"; ObjectID = "PJQ-YS-080"; */
+"PJQ-YS-080.text" = "快遞單號";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "QsB-f5-Fet"; */
+"QsB-f5-Fet.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "选择 尺码 颜色"; ObjectID = "Sb8-kM-0JP"; */
+"Sb8-kM-0JP.text" = "選擇 尺碼 顏色";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U0k-kJ-q6l"; */
+"U0k-kJ-q6l.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UxC-AR-yCK"; */
+"UxC-AR-yCK.text" = "Label";
+
+/* Class = "UILabel"; text = "Labelsdfdfdsfdsfdsfdsfdsf"; ObjectID = "Vai-hu-Ee9"; */
+"Vai-hu-Ee9.text" = "Labelsdfdfdsfdsfdsfdsfdsf";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W1u-Fh-nf5"; */
+"W1u-Fh-nf5.text" = "Label";
+
+/* Class = "UILabel"; text = "Labelsdfdfdsfdsfdsfdsfdsf"; ObjectID = "XuN-ad-ka0"; */
+"XuN-ad-ka0.text" = "Labelsdfdfdsfdsfdsfdsfdsf";
+
+/* Class = "UILabel"; text = "失效"; ObjectID = "Y3T-kc-S8J"; */
+"Y3T-kc-S8J.text" = "失效";
+
+/* Class = "UIButton"; normalTitle = "晒单"; ObjectID = "YgJ-Mf-LFf"; */
+"YgJ-Mf-LFf.normalTitle" = "曬單";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "b5g-B2-OYS"; */
+"b5g-B2-OYS.text" = "￥1222222";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "b9R-za-ujf"; */
+"b9R-za-ujf.text" = "￥1222222";
+
+/* Class = "UIButton"; normalTitle = "撤销"; ObjectID = "bmZ-Y1-mAM"; */
+"bmZ-Y1-mAM.normalTitle" = "撤銷";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "coK-Ii-aVA"; */
+"coK-Ii-aVA.text" = "Label";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "dK5-i4-OYj"; */
+"dK5-i4-OYj.text" = "12";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "dLV-kn-eFD"; */
+"dLV-kn-eFD.text" = "￥1222222";
+
+/* Class = "UILabel"; text = "联系方式："; ObjectID = "dYH-1d-8Eu"; */
+"dYH-1d-8Eu.text" = "聯繫方式：";
+
+/* Class = "UILabel"; text = "王宁"; ObjectID = "deP-yM-jC7"; */
+"deP-yM-jC7.text" = "王寧";
+
+/* Class = "UILabel"; text = "请填写收货信息"; ObjectID = "dpi-sS-FDa"; */
+"dpi-sS-FDa.text" = "請填寫收貨信息";
+
+/* Class = "UILabel"; text = "电话：123"; ObjectID = "elD-Jt-gpS"; */
+"elD-Jt-gpS.text" = "電話：123";
+
+/* Class = "UILabel"; text = "大大大滴滴答答"; ObjectID = "es7-q8-TVI"; */
+"es7-q8-TVI.text" = "大大大滴滴答答";
+
+/* Class = "UILabel"; text = "电话: 139872626387"; ObjectID = "fCO-zK-k91"; */
+"fCO-zK-k91.text" = "電話: 139872626387";
+
+/* Class = "UILabel"; text = "1333"; ObjectID = "fD5-jo-Suv"; */
+"fD5-jo-Suv.text" = "1333";
+
+/* Class = "UILabel"; text = "共7件"; ObjectID = "fOD-ds-llX"; */
+"fOD-ds-llX.text" = "共7件";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fPT-Cq-Mob"; */
+"fPT-Cq-Mob.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请填写快递单号"; ObjectID = "fQ0-uV-ztq"; */
+"fQ0-uV-ztq.placeholder" = "請填寫快遞單號";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g3C-wF-fV2"; */
+"g3C-wF-fV2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "确认提交"; ObjectID = "gGT-fH-2dg"; */
+"gGT-fH-2dg.normalTitle" = "確認提交";
+
+/* Class = "UILabel"; text = "退货运费说明：因质量问题产生的货运费，由Keep承担，其他原因退货产生的费用，由买家承担。"; ObjectID = "grR-PG-Vss"; */
+"grR-PG-Vss.text" = "退貨運費說明：因質量問題產生的貨運費，由Keep承擔，其他原因退貨產生的費用，由買家承擔。";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hFc-T3-heV"; */
+"hFc-T3-heV.text" = "Label";
+
+/* Class = "UILabel"; text = "预计退款金额"; ObjectID = "i9Q-8x-rdK"; */
+"i9Q-8x-rdK.text" = "預計退款金額";
+
+/* Class = "UILabel"; text = "赠品"; ObjectID = "j7M-nb-GtU"; */
+"j7M-nb-GtU.text" = "贈品";
+
+/* Class = "UILabel"; text = "身份信息"; ObjectID = "jKg-7w-PVW"; */
+"jKg-7w-PVW.text" = "身份信息";
+
+/* Class = "UILabel"; text = "收货地址"; ObjectID = "jep-ZN-hb9"; */
+"jep-ZN-hb9.text" = "收貨地址";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "jr5-cD-Up7"; */
+"jr5-cD-Up7.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "khN-oI-M2p"; */
+"khN-oI-M2p.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "l24-6X-TQu"; */
+"l24-6X-TQu.normalTitle" = "確定";
+
+/* Class = "UILabel"; text = "实际支付"; ObjectID = "luG-r9-V5o"; */
+"luG-r9-V5o.text" = "實際支付";
+
+/* Class = "UILabel"; text = " "; ObjectID = "mPh-xy-nSe"; */
+"mPh-xy-nSe.text" = " ";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "mmV-oA-oXV"; */
+"mmV-oA-oXV.text" = "￥1222222";
+
+/* Class = "UILabel"; text = " "; ObjectID = "myc-RD-NJh"; */
+"myc-RD-NJh.text" = " ";
+
+/* Class = "UILabel"; text = "可用优惠券"; ObjectID = "n6x-gI-bMe"; */
+"n6x-gI-bMe.text" = "可用優惠券";
+
+/* Class = "UITextField"; placeholder = "收货人姓名"; ObjectID = "n7F-Mz-8Y6"; */
+"n7F-Mz-8Y6.placeholder" = "收貨人姓名";
+
+/* Class = "UILabel"; text = "赠品"; ObjectID = "nFD-7D-zFh"; */
+"nFD-7D-zFh.text" = "贈品";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "o8y-jd-wzz"; */
+"o8y-jd-wzz.text" = "1";
+
+/* Class = "UILabel"; text = "退货数量"; ObjectID = "oUP-82-zWE"; */
+"oUP-82-zWE.text" = "退貨數量";
+
+/* Class = "UILabel"; text = "快递公司："; ObjectID = "ods-QK-7sU"; */
+"ods-QK-7sU.text" = "快遞公司：";
+
+/* Class = "UILabel"; text = "照片凭证（最多3张）"; ObjectID = "pCD-xK-Wxz"; */
+"pCD-xK-Wxz.text" = "照片憑證（最多3張）";
+
+/* Class = "UILabel"; text = "￥1222222"; ObjectID = "pkQ-aL-3Kn"; */
+"pkQ-aL-3Kn.text" = "￥1222222";
+
+/* Class = "UILabel"; text = "快递公司"; ObjectID = "pvz-sb-dHN"; */
+"pvz-sb-dHN.text" = "快遞公司";
+
+/* Class = "UILabel"; text = "优惠券"; ObjectID = "s07-Ep-EVH"; */
+"s07-Ep-EVH.text" = "優惠券";
+
+/* Class = "UILabel"; text = "总计 3件发的方法"; ObjectID = "sBc-sb-JdA"; */
+"sBc-sb-JdA.text" = "總計 3件發的方法";
+
+/* Class = "UILabel"; text = "￥999"; ObjectID = "swh-8e-mzL"; */
+"swh-8e-mzL.text" = "￥999";
+
+/* Class = "UILabel"; text = "电话：123"; ObjectID = "tnH-Qw-X67"; */
+"tnH-Qw-X67.text" = "電話：123";
+
+/* Class = "UILabel"; text = "电话：123"; ObjectID = "trB-SY-hx4"; */
+"trB-SY-hx4.text" = "電話：123";
+
+/* Class = "UILabel"; text = "￥1234567"; ObjectID = "tt8-QN-amM"; */
+"tt8-QN-amM.text" = "￥1234567";
+
+/* Class = "UILabel"; text = "Labelsdfdfdsfdsfdsfdsfdsf"; ObjectID = "tyH-A7-3yV"; */
+"tyH-A7-3yV.text" = "Labelsdfdfdsfdsfdsfdsfdsf";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "viQ-NA-kNZ"; */
+"viQ-NA-kNZ.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "添加身份凭证"; ObjectID = "w1l-N0-cfl"; */
+"w1l-N0-cfl.text" = "添加身份憑證";
+
+/* Class = "UILabel"; text = "实际支付"; ObjectID = "wfh-YI-fDf"; */
+"wfh-YI-fDf.text" = "實際支付";
+
+/* Class = "UILabel"; text = "手机号"; ObjectID = "xgv-Na-ky9"; */
+"xgv-Na-ky9.text" = "手機號";
+
+/* Class = "UILabel"; text = "请输入详细的地址信息（街道、楼牌号等）"; ObjectID = "xyG-Lx-F4n"; */
+"xyG-Lx-F4n.text" = "請輸入詳細的地址信息（街道、樓牌號等）";
+
+/* Class = "UILabel"; text = "海关清关需要，请确保收件人姓名为真实姓名"; ObjectID = "y1M-RC-HuQ"; */
+"y1M-RC-HuQ.text" = "海關清關需要，請確保收件人姓名為真實姓名";
+
+/* Class = "UILabel"; text = "x1"; ObjectID = "yA6-A1-4b6"; */
+"yA6-A1-4b6.text" = "x1";
+
+/* Class = "UILabel"; text = " "; ObjectID = "zPa-cz-uS8"; */
+"zPa-cz-uS8.text" = " ";
+
+/* Class = "UILabel"; text = "收件人：王宁"; ObjectID = "zt6-AJ-Qun"; */
+"zt6-AJ-Qun.text" = "收件人：王寧";
+
+/* Class = "UITextField"; placeholder = "请选择省 / 市 / 县(区)"; ObjectID = "zuk-a4-JKE"; */
+"zuk-a4-JKE.placeholder" = "請選擇省 / 市 / 縣(區)";

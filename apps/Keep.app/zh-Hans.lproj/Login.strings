@@ -1,0 +1,87 @@
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "8uv-Po-E0C"; */
+"8uv-Po-E0C.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "手机号"; ObjectID = "9Zg-dI-R3e"; */
+"9Zg-dI-R3e.placeholder" = "手机号";
+
+/* Class = "UILabel"; text = "健身基础"; ObjectID = "AbV-tX-Rhq"; */
+"AbV-tX-Rhq.text" = "健身基础";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "FmZ-4S-rNC"; */
+"FmZ-4S-rNC.normalTitle" = "获取验证码";
+
+/* Class = "UILabel"; text = "其他方式快速注册"; ObjectID = "GaC-St-fmW"; */
+"GaC-St-fmW.text" = "其他方式快速注册";
+
+/* Class = "UIButton"; normalTitle = "初级"; ObjectID = "GgE-ri-lvO"; */
+"GgE-ri-lvO.normalTitle" = "初级";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "JTd-vj-gPq"; */
+"JTd-vj-gPq.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "不同的健身目标适合不同的「Keep」健身计划"; ObjectID = "KeL-Jl-ou8"; */
+"KeL-Jl-ou8.text" = "不同的健身目标适合不同的「Keep」健身计划";
+
+/* Class = "UIBarButtonItem"; title = "     "; ObjectID = "L0Z-R9-GG4"; */
+"L0Z-R9-GG4.title" = "     ";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "Lk7-b7-Mo6"; */
+"Lk7-b7-Mo6.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "MGX-Bm-Dhq"; */
+"MGX-Bm-Dhq.normalTitle" = "提交";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "ReB-MY-lCK"; */
+"ReB-MY-lCK.normalTitle" = "获取验证码";
+
+/* Class = "UIButton"; normalTitle = "忘记密码？"; ObjectID = "TdD-6l-2dL"; */
+"TdD-6l-2dL.normalTitle" = "忘记密码？";
+
+/* Class = "UIButton"; normalTitle = "中级"; ObjectID = "YAb-x3-K5F"; */
+"YAb-x3-K5F.normalTitle" = "中级";
+
+/* Class = "UIButton"; normalTitle = "增肌"; ObjectID = "cNM-4W-dnZ"; */
+"cNM-4W-dnZ.normalTitle" = "增肌";
+
+/* Class = "UILabel"; text = "昵称请控制在4-30个字符，支持中英文、数字、横线和减号"; ObjectID = "dE8-uc-RBc"; */
+"dE8-uc-RBc.text" = "昵称请控制在4-30个字符，支持中英文、数字、横线和减号";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "foa-3l-VxB"; */
+"foa-3l-VxB.text" = "+86";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "jRt-yO-TW8"; */
+"jRt-yO-TW8.text" = "+86";
+
+/* Class = "UILabel"; text = "你的健身基础可以帮助「Keep」更好的推荐健身计划"; ObjectID = "l3r-5Q-Ybe"; */
+"l3r-5Q-Ybe.text" = "你的健身基础可以帮助「Keep」更好的推荐健身计划";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "lDo-Q4-Ant"; */
+"lDo-Q4-Ant.text" = "+86";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "mBk-Zj-5Fx"; */
+"mBk-Zj-5Fx.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "验证码已发送"; ObjectID = "nl1-IK-dlG"; */
+"nl1-IK-dlG.text" = "验证码已发送";
+
+/* Class = "UILabel"; text = "健身目标"; ObjectID = "pY0-gY-Hkq"; */
+"pY0-gY-Hkq.text" = "健身目标";
+
+/* Class = "UILabel"; text = "验证码已发送到"; ObjectID = "r9r-oc-a2G"; */
+"r9r-oc-a2G.text" = "验证码已发送到";
+
+/* Class = "UILabel"; text = "上传头像"; ObjectID = "tNC-ym-h3H"; */
+"tNC-ym-h3H.text" = "上传头像";
+
+/* Class = "UILabel"; text = "其他方式登录"; ObjectID = "x3H-lw-MbN"; */
+"x3H-lw-MbN.text" = "其他方式登录";
+
+/* Class = "UIButton"; normalTitle = "减脂"; ObjectID = "xQr-I9-mBd"; */
+"xQr-I9-mBd.normalTitle" = "减脂";
+
+/* Class = "UIButton"; normalTitle = "高级"; ObjectID = "ycB-LX-IAe"; */
+"ycB-LX-IAe.normalTitle" = "高级";
+
+/* Class = "UIButton"; normalTitle = "塑形"; ObjectID = "zGR-Pr-VtH"; */
+"zGR-Pr-VtH.normalTitle" = "塑形";

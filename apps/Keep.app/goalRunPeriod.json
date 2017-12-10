@@ -1,0 +1,242 @@
+[
+  {
+    "goalRunVisualPeriod": "00:10:00",
+    "goalRunMathPeriod": 600
+  },
+  {
+    "goalRunVisualPeriod": "00:20:00",
+    "goalRunMathPeriod": 1200
+  },
+  {
+    "goalRunVisualPeriod": "00:30:00",
+    "goalRunMathPeriod": 1800
+  },
+  {
+    "goalRunVisualPeriod": "00:40:00",
+    "goalRunMathPeriod": 2400
+  },
+  {
+    "goalRunVisualPeriod": "00:50:00",
+    "goalRunMathPeriod": 3000
+  },
+  {
+    "goalRunVisualPeriod": "01:00:00",
+    "goalRunMathPeriod": 3600
+  },
+  {
+    "goalRunVisualPeriod": "01:10:00",
+    "goalRunMathPeriod": 4200
+  },
+  {
+    "goalRunVisualPeriod": "01:20:00",
+    "goalRunMathPeriod": 4800
+  },
+  {
+    "goalRunVisualPeriod": "01:30:00",
+    "goalRunMathPeriod": 5400
+  },
+  {
+    "goalRunVisualPeriod": "01:40:00",
+    "goalRunMathPeriod": 6000
+  },
+  {
+    "goalRunVisualPeriod": "01:50:00",
+    "goalRunMathPeriod": 6600
+  },
+  {
+    "goalRunVisualPeriod": "02:00:00",
+    "goalRunMathPeriod": 7200
+  },
+  {
+    "goalRunVisualPeriod": "02:10:00",
+    "goalRunMathPeriod": 7800
+  },
+  {
+    "goalRunVisualPeriod": "02:20:00",
+    "goalRunMathPeriod": 8400
+  },
+  {
+    "goalRunVisualPeriod": "02:30:00",
+    "goalRunMathPeriod": 9000
+  },
+  {
+    "goalRunVisualPeriod": "02:40:00",
+    "goalRunMathPeriod": 9600
+  },
+  {
+    "goalRunVisualPeriod": "02:50:00",
+    "goalRunMathPeriod": 10200
+  },
+  {
+    "goalRunVisualPeriod": "03:00:00",
+    "goalRunMathPeriod": 10800
+  },
+  {
+    "goalRunVisualPeriod": "03:10:00",
+    "goalRunMathPeriod": 11400
+  },
+  {
+    "goalRunVisualPeriod": "03:20:00",
+    "goalRunMathPeriod": 12000
+  },
+  {
+    "goalRunVisualPeriod": "03:30:00",
+    "goalRunMathPeriod": 12600
+  },
+  {
+    "goalRunVisualPeriod": "03:40:00",
+    "goalRunMathPeriod": 13200
+  },
+  {
+    "goalRunVisualPeriod": "03:50:00",
+    "goalRunMathPeriod": 13800
+  },
+  {
+    "goalRunVisualPeriod": "04:00:00",
+    "goalRunMathPeriod": 14400
+  },
+  {
+    "goalRunVisualPeriod": "04:10:00",
+    "goalRunMathPeriod": 15000
+  },
+  {
+    "goalRunVisualPeriod": "04:20:00",
+    "goalRunMathPeriod": 15600
+  },
+  {
+    "goalRunVisualPeriod": "04:30:00",
+    "goalRunMathPeriod": 16200
+  },
+  {
+    "goalRunVisualPeriod": "04:40:00",
+    "goalRunMathPeriod": 16800
+  },
+  {
+    "goalRunVisualPeriod": "04:50:00",
+    "goalRunMathPeriod": 17400
+  },
+  {
+    "goalRunVisualPeriod": "05:00:00",
+    "goalRunMathPeriod": 18000
+  },
+  {
+    "goalRunVisualPeriod": "05:10:00",
+    "goalRunMathPeriod": 18600
+  },
+  {
+    "goalRunVisualPeriod": "05:20:00",
+    "goalRunMathPeriod": 19200
+  },
+  {
+    "goalRunVisualPeriod": "05:30:00",
+    "goalRunMathPeriod": 19800
+  },
+  {
+    "goalRunVisualPeriod": "05:40:00",
+    "goalRunMathPeriod": 20400
+  },
+  {
+    "goalRunVisualPeriod": "05:50:00",
+    "goalRunMathPeriod": 21000
+  },
+  {
+    "goalRunVisualPeriod": "06:00:00",
+    "goalRunMathPeriod": 21600
+  },
+  {
+    "goalRunVisualPeriod": "06:10:00",
+    "goalRunMathPeriod": 22200
+  },
+  {
+    "goalRunVisualPeriod": "06:20:00",
+    "goalRunMathPeriod": 22800
+  },
+  {
+    "goalRunVisualPeriod": "06:30:00",
+    "goalRunMathPeriod": 23400
+  },
+  {
+    "goalRunVisualPeriod": "06:40:00",
+    "goalRunMathPeriod": 24000
+  },
+  {
+    "goalRunVisualPeriod": "06:50:00",
+    "goalRunMathPeriod": 24600
+  },
+  {
+    "goalRunVisualPeriod": "07:00:00",
+    "goalRunMathPeriod": 25200
+  },
+  {
+    "goalRunVisualPeriod": "07:10:00",
+    "goalRunMathPeriod": 25800
+  },
+  {
+    "goalRunVisualPeriod": "07:20:00",
+    "goalRunMathPeriod": 26400
+  },
+  {
+    "goalRunVisualPeriod": "07:30:00",
+    "goalRunMathPeriod": 27000
+  },
+  {
+    "goalRunVisualPeriod": "07:40:00",
+    "goalRunMathPeriod": 27600
+  },
+  {
+    "goalRunVisualPeriod": "07:50:00",
+    "goalRunMathPeriod": 28200
+  },
+  {
+    "goalRunVisualPeriod": "08:00:00",
+    "goalRunMathPeriod": 28800
+  },
+  {
+    "goalRunVisualPeriod": "08:10:00",
+    "goalRunMathPeriod": 29400
+  },
+  {
+    "goalRunVisualPeriod": "08:20:00",
+    "goalRunMathPeriod": 30000
+  },
+  {
+    "goalRunVisualPeriod": "08:30:00",
+    "goalRunMathPeriod": 30600
+  },
+  {
+    "goalRunVisualPeriod": "08:40:00",
+    "goalRunMathPeriod": 31200
+  },
+  {
+    "goalRunVisualPeriod": "08:50:00",
+    "goalRunMathPeriod": 31800
+  },
+  {
+    "goalRunVisualPeriod": "09:00:00",
+    "goalRunMathPeriod": 32400
+  },
+  {
+    "goalRunVisualPeriod": "09:10:00",
+    "goalRunMathPeriod": 33000
+  },
+  {
+    "goalRunVisualPeriod": "09:20:00",
+    "goalRunMathPeriod": 33600
+  },
+  {
+    "goalRunVisualPeriod": "09:30:00",
+    "goalRunMathPeriod": 34200
+  },
+  {
+    "goalRunVisualPeriod": "09:40:00",
+    "goalRunMathPeriod": 34800
+  },
+  {
+    "goalRunVisualPeriod": "09:50:00",
+    "goalRunMathPeriod": 35400
+  },
+  {
+    "goalRunVisualPeriod": "10:00:00",
+    "goalRunMathPeriod": 36000
+  }
+]

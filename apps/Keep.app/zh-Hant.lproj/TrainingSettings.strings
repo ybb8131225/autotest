@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "男"; ObjectID = "1dF-2f-fUH"; */
+"1dF-2f-fUH.text" = "男";
+
+/* Class = "UILabel"; text = "很少運動，沒有參加過系統的健身訓練。"; ObjectID = "6xC-NR-Pl0"; */
+"6xC-NR-Pl0.text" = "很少運動，需要從入門開始，適應運動的節奏";
+
+/* Class = "UILabel"; text = "示範教練"; ObjectID = "AVg-Fx-Xdy"; */
+"AVg-Fx-Xdy.text" = "示範教練";
+
+/* Class = "UILabel"; text = "有一定健身習慣，去過健身房，專業知識和能力還不夠完善。"; ObjectID = "B35-QS-3kM"; */
+"B35-QS-3kM.text" = "有運動習慣，具備一定的運動基礎";
+
+/* Class = "UILabel"; text = "高級"; ObjectID = "DEa-Mf-4q9"; */
+"DEa-Mf-4q9.text" = "經驗豐富";
+
+/* Class = "UILabel"; text = "塑形"; ObjectID = "JEz-pu-Ac3"; */
+"JEz-pu-Ac3.text" = "塑形";
+
+/* Class = "UILabel"; text = "高強度「Keep」無氧訓練計劃，每次的極限突破，都是一次全新體驗。"; ObjectID = "LoQ-ip-YgG"; */
+"LoQ-ip-YgG.text" = "打造立體的身型";
+
+/* Class = "UILabel"; text = "專注的「Keep」塑形訓練計劃，幫助你打造更加完美的火辣身材。"; ObjectID = "OA6-WL-fH5"; */
+"OA6-WL-fH5.text" = "改善身體的局部線條";
+
+/* Class = "UILabel"; text = "增肌"; ObjectID = "Xf6-zJ-ANg"; */
+"Xf6-zJ-ANg.text" = "增肌";
+
+/* Class = "UILabel"; text = "減脂"; ObjectID = "efR-hr-20X"; */
+"efR-hr-20X.text" = "減脂";
+
+/* Class = "UILabel"; text = "健身達人，你的汗水已經灑滿了整個健身房。"; ObjectID = "g1H-J2-nhe"; */
+"g1H-J2-nhe.text" = "有規律的運動習慣，運動能力突出";
+
+/* Class = "UILabel"; text = "初級"; ObjectID = "hTO-ep-4xO"; */
+"hTO-ep-4xO.text" = "零基礎";
+
+/* Class = "UILabel"; text = "中級"; ObjectID = "o91-hl-icL"; */
+"o91-hl-icL.text" = "有經驗";
+
+/* Class = "UILabel"; text = "更多的「Keep」有氧訓練計劃，幫助你快速減掉多餘脂肪。"; ObjectID = "wa9-zd-Wc4"; */
+"wa9-zd-Wc4.text" = "減去全身的多餘脂肪";

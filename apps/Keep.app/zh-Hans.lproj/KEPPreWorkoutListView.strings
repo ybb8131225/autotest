@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "时长6分钟，动作10个"; ObjectID = "BBF-JL-0p4"; */
+"BBF-JL-0p4.text" = "时长6分钟，动作10个";
+
+/* Class = "UILabel"; text = "即将进入运动测试"; ObjectID = "S5h-Jf-7Wc"; */
+"S5h-Jf-7Wc.text" = "即将进入运动测试";
+
+/* Class = "UILabel"; text = "腿部方式"; ObjectID = "YDq-Np-6IP"; */
+"YDq-Np-6IP.text" = "腿部方式";
+
+/* Class = "UILabel"; text = "请换上运动服，铺好瑜伽垫"; ObjectID = "azz-nl-YK4"; */
+"azz-nl-YK4.text" = "请换上运动服，铺好瑜伽垫";
+
+/* Class = "UILabel"; text = "1组15次"; ObjectID = "bQF-2b-5Zi"; */
+"bQF-2b-5Zi.text" = "1组15次";
+
+/* Class = "UIButton"; normalTitle = "开始"; ObjectID = "lcd-fj-EGI"; */
+"lcd-fj-EGI.normalTitle" = "开始";
+
+/* Class = "UILabel"; text = "10分20秒"; ObjectID = "oS8-DP-UEf"; */
+"oS8-DP-UEf.text" = "10分20秒";

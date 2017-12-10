@@ -1,0 +1,44 @@
+{
+  "id": "589c4e4483d7784179bdd20d",
+  "type": "pictureWords",
+  "question": "心情如何？",
+  "options": [
+    {
+      "id": "589c4e4483d7784179bdd208",
+      "title": null,
+      "checkPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486634967676_105x105.png",
+      "uncheckPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635172298_105x105.png",
+      "available": true
+    },
+    {
+      "id": "589c4e4483d7784179bdd209",
+      "title": null,
+      "checkPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635233938_105x105.png",
+      "uncheckPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635304377_105x105.png",
+      "available": true
+    },
+    {
+      "id": "589c4e4483d7784179bdd20a",
+      "title": null,
+      "checkPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635317978_105x105.png",
+      "uncheckPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635329248_105x105.png",
+      "available": true
+    },
+    {
+      "id": "589c4e4483d7784179bdd20b",
+      "title": null,
+      "checkPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635339746_105x105.png",
+      "uncheckPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635350716_105x105.png",
+      "available": true
+    },
+    {
+      "id": "589c4e4483d7784179bdd20c",
+      "title": null,
+      "checkPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635368662_105x105.png",
+      "uncheckPicUrl": "http://static1.keepcdn.com/2017/02/09/18/1486635376098_105x105.png",
+      "available": true
+    }
+  ],
+  "sliderDesc": null,
+  "available": true
+}

@@ -1,0 +1,117 @@
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "0rX-32-9XN"; */
+"0rX-32-9XN.normalTitle" = "保存";
+
+/* Class = "UITextField"; placeholder = "支持4-30个中英文、数字、横线和减号"; ObjectID = "9KM-sv-3R2"; */
+"9KM-sv-3R2.placeholder" = "支持4-30個中英文、數字、橫線和減號";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dur-7i-64M"; */
+"Dur-7i-64M.text" = "Label";
+
+/* Class = "UILabel"; text = "哆嗦肖兰香"; ObjectID = "Esu-wM-BfI"; */
+"Esu-wM-BfI.text" = "哆嗦肖兰香";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "GDu-k3-dKu"; */
+"GDu-k3-dKu.text" = "我的收藏";
+
+/* Class = "UILabel"; text = "我觉得吧今天计算机就是时间"; ObjectID = "ISc-BX-Qja"; */
+"ISc-BX-Qja.text" = "我觉得吧今天计算机就是时间";
+
+/* Class = "UILabel"; text = "更换头像"; ObjectID = "J09-cU-BMr"; */
+"J09-cU-BMr.text" = "更換頭像";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "JAE-yT-euV"; */
+"JAE-yT-euV.text" = "kg";
+
+/* Class = "UILabel"; text = "未添加"; ObjectID = "Mzs-Jf-glQ"; */
+"Mzs-Jf-glQ.text" = "未添加";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O1S-cb-1Ao"; */
+"O1S-cb-1Ao.text" = "Label";
+
+/* Class = "UILabel"; text = "请输入当前体重"; ObjectID = "OJ2-Qn-LNU"; */
+"OJ2-Qn-LNU.text" = "請輸入當前體重";
+
+/* Class = "UILabel"; text = "140字"; ObjectID = "QWW-60-JAA"; */
+"QWW-60-JAA.text" = "140字";
+
+/* Class = "UILabel"; text = "还没有收藏"; ObjectID = "RgE-IH-aNc"; */
+"RgE-IH-aNc.text" = "還沒有收藏";
+
+/* Class = "UILabel"; text = "哆嗦肖兰香"; ObjectID = "T22-av-xWA"; */
+"T22-av-xWA.text" = "哆嗦肖兰香";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UBN-kg-9h5"; */
+"UBN-kg-9h5.text" = "Label";
+
+/* Class = "UILabel"; text = "填写生日"; ObjectID = "UJU-UR-PQ0"; */
+"UJU-UR-PQ0.text" = "填寫生日";
+
+/* Class = "UILabel"; text = "哆嗦肖兰香"; ObjectID = "YHg-Z4-S6B"; */
+"YHg-Z4-S6B.text" = "哆嗦肖兰香";
+
+/* Class = "UILabel"; text = "我觉得吧今天计算机就是我觉得吧今天计算机就是时间回时间回"; ObjectID = "Yql-Ga-WFc"; */
+"Yql-Ga-WFc.text" = "我觉得吧今天计算机就是我觉得吧今天计算机就是时间回时间回";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "Zia-bf-ImX"; */
+"Zia-bf-ImX.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ahI-0Z-GUM"; */
+"ahI-0Z-GUM.text" = "Label";
+
+/* Class = "UILabel"; text = "修改资料"; ObjectID = "bL3-Hd-kJx"; */
+"bL3-Hd-kJx.text" = "修改資料";
+
+/* Class = "UILabel"; text = "生日"; ObjectID = "blk-pj-yLC"; */
+"blk-pj-yLC.text" = "生日";
+
+/* Class = "UITextView"; text = "fdafdsafa阿达的发放的萨芬的阿范德萨范德萨范德萨范德萨发的发的爱疯的fdafdsafa阿达的发放的萨芬的阿范德萨范德萨范德萨范德萨"; ObjectID = "ctW-d6-FrM"; */
+"ctW-d6-FrM.text" = "fdafdsafa阿达的发放的萨芬的阿范德萨范德萨范德萨范德萨发的发的爱疯的fdafdsafa阿达的发放的萨芬的阿范德萨范德萨范德萨范德萨";
+
+/* Class = "UILabel"; text = "我觉得吧今天计算机就是时间回"; ObjectID = "doq-AB-Pju"; */
+"doq-AB-Pju.text" = "我觉得吧今天计算机就是时间回";
+
+/* Class = "UILabel"; text = "跑步等级"; ObjectID = "dwX-Gz-v5f"; */
+"dwX-Gz-v5f.text" = "跑步等級";
+
+/* Class = "UILabel"; text = "身体数据"; ObjectID = "eCk-hK-cEX"; */
+"eCk-hK-cEX.text" = "身體數據";
+
+/* Class = "UILabel"; text = "该内容不存在"; ObjectID = "h4X-CT-dLC"; */
+"h4X-CT-dLC.text" = "該內容不存在";
+
+/* Class = "UILabel"; text = "哆嗦肖兰香"; ObjectID = "hcq-JP-VKz"; */
+"hcq-JP-VKz.text" = "哆嗦肖兰香";
+
+/* Class = "UILabel"; text = "简介"; ObjectID = "iwd-m4-Yn1"; */
+"iwd-m4-Yn1.text" = "簡介";
+
+/* Class = "UILabel"; text = "哆嗦肖兰香"; ObjectID = "ja7-d9-dxx"; */
+"ja7-d9-dxx.text" = "哆嗦肖兰香";
+
+/* Class = "UILabel"; text = "运动能力"; ObjectID = "nFb-0M-sAM"; */
+"nFb-0M-sAM.text" = "運動能力";
+
+/* Class = "UILabel"; text = "我觉得吧今天计算机就是时间回"; ObjectID = "oMp-TU-R6X"; */
+"oMp-TU-R6X.text" = "我觉得吧今天计算机就是时间回";
+
+/* Class = "UILabel"; text = "所在城市"; ObjectID = "pDY-EF-wzs"; */
+"pDY-EF-wzs.text" = "所在城市";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qKy-kf-2Fl"; */
+"qKy-kf-2Fl.text" = "Label";
+
+/* Class = "UILabel"; text = "训练历史"; ObjectID = "ryq-sd-2qF"; */
+"ryq-sd-2qF.text" = "訓練歷史";
+
+/* Class = "UINavigationItem"; title = "个人资料"; ObjectID = "teJ-9Y-IVO"; */
+"teJ-9Y-IVO.title" = "個人資料";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "uC6-Xy-XUN"; */
+"uC6-Xy-XUN.text" = "性别";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ubv-Eo-pXx"; */
+"ubv-Eo-pXx.text" = "Label";
+
+/* Class = "UILabel"; text = "昵称"; ObjectID = "vL7-0b-Sfa"; */
+"vL7-0b-Sfa.text" = "昵稱";

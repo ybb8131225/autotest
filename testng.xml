@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="KeepTestApp">
+
+    <!--jenkins-->
+    <!--<parameter name="channel" value="${channel}" />-->
+    <!--<parameter name="url" value="${url}" />-->
+    <!--<parameter name="username" value="${username}" />-->
+    <!--<parameter name="password" value="${password}" />-->
+
+    <!--local-->
+    <parameter name="channel" value="android" />
+    <parameter name="url" value="http://10.2.4.172:4723/wd/hub" />
+    <parameter name="username" value="18600234970" />
+    <parameter name="password" value="786946" />
+
+    <test name="KeepTestApp" preserve-order="true">
+        <classes>
+            <class name="runcase.Main" >
+                <methods>
+                    <include name="testLogin"></include>
+                    <!--<include name="testOutTrain"></include>-->
+                    <!--<include name="testTrain"></include>-->
+                    <!--<include name="testPublish"></include>-->
+                    <!--<include name="testFinishTrain"></include>-->
+                    <!--<include name="testSchedule"></include>-->
+                    <!--<include name="testNextSchedule"></include>-->
+                    <!--<include name="testOutSchedule"></include>-->
+                    <!--<include name="testDefinedSchedule"></include>-->
+                    <!--<include name="testSystrace"></include>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

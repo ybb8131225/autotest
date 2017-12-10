@@ -1,0 +1,52 @@
+[
+    {
+        "goalRunMathCalorie": 50,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodCookie",
+        "goalRunIconCalorie": "icon_run_setting_cookie"
+    },
+    {
+        "goalRunMathCalorie": 100,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodToast",
+        "goalRunIconCalorie": "icon_run_setting_toast"
+    },
+    {
+        "goalRunMathCalorie": 150,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodDrumstick",
+        "goalRunIconCalorie": "icon_run_setting_drumstick"
+    },
+    {
+        "goalRunMathCalorie": 200,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodCake",
+        "goalRunIconCalorie": "icon_run_setting_cake"
+    },
+    {
+        "goalRunMathCalorie": 250,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodDoughnut",
+        "goalRunIconCalorie": "icon_run_setting_doughnut"
+    },
+    {
+        "goalRunMathCalorie": 300,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodFrenchfries",
+        "goalRunIconCalorie": "icon_run_setting_frenchfries"
+    },
+    {
+        "goalRunMathCalorie": 350,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodPopcorn",
+        "goalRunIconCalorie": "icon_run_setting_popcorn"
+    },
+    {
+        "goalRunMathCalorie": 400,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodHamburger",
+        "goalRunIconCalorie": "icon_run_setting_hamburger"
+    },
+    {
+        "goalRunMathCalorie": 450,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodNoodles",
+        "goalRunIconCalorie": "icon_run_setting_noodles"
+    },
+    {
+        "goalRunMathCalorie": 500,
+        "goalRunNameCalorie": "OutdoorActivityCalorieGoalFoodRice",
+        "goalRunIconCalorie": "icon_run_setting_rice"
+    }
+]

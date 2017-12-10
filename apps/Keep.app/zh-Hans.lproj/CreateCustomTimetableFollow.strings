@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "根据训练目标，难度和部位，为你推荐以下训练"; ObjectID = "0Bl-M4-8yy"; */
+"0Bl-M4-8yy.text" = "根据训练目标，难度和部位，为你推荐以下训练";
+
+/* Class = "UILabel"; text = "强度刚好，小有挑战"; ObjectID = "21r-Eh-ss7"; */
+"21r-Eh-ss7.text" = "强度刚好，小有挑战";
+
+/* Class = "UILabel"; text = "刚刚结束的训练周，你的训练感受如何"; ObjectID = "3gl-JG-E8f"; */
+"3gl-JG-E8f.text" = "刚刚结束的训练周，你的训练感受如何";
+
+/* Class = "UIButton"; normalTitle = "K5"; ObjectID = "7zo-WG-g0f"; */
+"7zo-WG-g0f.normalTitle" = "K5";
+
+/* Class = "UILabel"; text = "10000分钟"; ObjectID = "AFs-Y6-nbA"; */
+"AFs-Y6-nbA.text" = "10000分钟";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "Cw5-3Q-ZdS"; */
+"Cw5-3Q-ZdS.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "DyH-89-kxp"; */
+"DyH-89-kxp.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "太棒了！继续前进，设定新的健身目标"; ObjectID = "HOf-q2-Zoi"; */
+"HOf-q2-Zoi.text" = "太棒了！继续前进，设定新的健身目标";
+
+/* Class = "UILabel"; text = "腹肌撕裂者"; ObjectID = "HcS-xW-eIM"; */
+"HcS-xW-eIM.text" = "腹肌撕裂者";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "Hvi-tn-lMc"; */
+"Hvi-tn-lMc.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "K2"; ObjectID = "I0X-n8-2dg"; */
+"I0X-n8-2dg.normalTitle" = "K2";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "KKK-Y7-2Gv"; */
+"KKK-Y7-2Gv.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "Keep 会基于你选择的器械安排 训练内容"; ObjectID = "L2G-9E-Ngf"; */
+"L2G-9E-Ngf.text" = "Keep 会基于你选择的器械安排 训练内容";
+
+/* Class = "UILabel"; text = "100分钟"; ObjectID = "L5S-lu-g9o"; */
+"L5S-lu-g9o.text" = "100分钟";
+
+/* Class = "UIButton"; normalTitle = "K4"; ObjectID = "LHe-eB-Luc"; */
+"LHe-eB-Luc.normalTitle" = "K4";
+
+/* Class = "UILabel"; text = "轻松完成，肌肉刺激变弱"; ObjectID = "Mtp-cB-Gbw"; */
+"Mtp-cB-Gbw.text" = "轻松完成，肌肉刺激变弱";
+
+/* Class = "UILabel"; text = "点选本周进行训练的日子不少于3天"; ObjectID = "Pw1-o2-BKp"; */
+"Pw1-o2-BKp.text" = "点选本周进行训练的日子不少于3天";
+
+/* Class = "UIButton"; normalTitle = "K3"; ObjectID = "Qo1-5k-SSM"; */
+"Qo1-5k-SSM.normalTitle" = "K3";
+
+/* Class = "UIButton"; normalTitle = "增肌"; ObjectID = "TK3-Gh-5d9"; */
+"TK3-Gh-5d9.normalTitle" = "增肌";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "TmY-vZ-Pge"; */
+"TmY-vZ-Pge.normalTitle" = "下一步";
+
+/* Class = "UIButton"; normalTitle = "K6"; ObjectID = "U0e-E9-Tzt"; */
+"U0e-E9-Tzt.normalTitle" = "K6";
+
+/* Class = "UIButton"; normalTitle = "塑形"; ObjectID = "UfY-e2-0fk"; */
+"UfY-e2-0fk.normalTitle" = "塑形";
+
+/* Class = "UIButton"; normalTitle = "减脂"; ObjectID = "WZA-BH-sbc"; */
+"WZA-BH-sbc.normalTitle" = "减脂";
+
+/* Class = "UILabel"; text = "12月23日 星期二"; ObjectID = "XgI-UZ-fFa"; */
+"XgI-UZ-fFa.text" = "12月23日 星期二";
+
+/* Class = "UIButton"; normalTitle = "开启下一训练周"; ObjectID = "Y3k-kN-mLH"; */
+"Y3k-kN-mLH.normalTitle" = "开启下一训练周";
+
+/* Class = "UILabel"; text = "修改训练日期"; ObjectID = "YZM-Sj-17G"; */
+"YZM-Sj-17G.text" = "修改训练日期";
+
+/* Class = "UILabel"; text = "下肢"; ObjectID = "ceE-cF-gUl"; */
+"ceE-cF-gUl.text" = "下肢";
+
+/* Class = "UILabel"; text = "课程表以一周 (7天) 为周期\n请选择开始日期"; ObjectID = "fk9-Zr-n0p"; */
+"fk9-Zr-n0p.text" = "课程表以一周 (7天) 为周期\n请选择开始日期";
+
+/* Class = "UILabel"; text = "建议下一训练周重复本周的训练内容"; ObjectID = "kDU-aF-84U"; */
+"kDU-aF-84U.text" = "建议下一训练周重复本周的训练内容";
+
+/* Class = "UIButton"; normalTitle = "添加训练"; ObjectID = "kW1-5t-0Bz"; */
+"kW1-5t-0Bz.normalTitle" = "添加训练";
+
+/* Class = "UILabel"; text = "选择适合你的训练难度， Keep 会带领你变得更强"; ObjectID = "lpm-V6-fQU"; */
+"lpm-V6-fQU.text" = "选择适合你的训练难度， Keep 会带领你变得更强";
+
+/* Class = "UILabel"; text = "核心"; ObjectID = "miM-Gn-Pzg"; */
+"miM-Gn-Pzg.text" = "核心";
+
+/* Class = "UILabel"; text = "已达成当前的健身目标：减脂"; ObjectID = "nqC-J3-4n3"; */
+"nqC-J3-4n3.text" = "已达成当前的健身目标：减脂";
+
+/* Class = "UILabel"; text = "换一组训练内容，或挑战更高难度的训练"; ObjectID = "qo1-Dd-wve"; */
+"qo1-Dd-wve.text" = "换一组训练内容，或挑战更高难度的训练";
+
+/* Class = "UIButton"; normalTitle = "K1"; ObjectID = "s3O-oU-swd"; */
+"s3O-oU-swd.normalTitle" = "K1";
+
+/* Class = "UILabel"; text = "点选本周重点关注的训练部位\nKeep 会推荐相关训练"; ObjectID = "tub-7K-DPU"; */
+"tub-7K-DPU.text" = "点选本周重点关注的训练部位\nKeep 会推荐相关训练";
+
+/* Class = "UIButton"; normalTitle = "查看课程表"; ObjectID = "ujt-tO-Kfu"; */
+"ujt-tO-Kfu.normalTitle" = "查看课程表";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xRH-BA-wz5"; */
+"xRH-BA-wz5.text" = "Label";
+
+/* Class = "UILabel"; text = "确定健身目标， 让 Keep 课程表帮你实现"; ObjectID = "xfP-Oz-PrH"; */
+"xfP-Oz-PrH.text" = "确定健身目标， 让 Keep 课程表帮你实现";
+
+/* Class = "UILabel"; text = "上肢"; ObjectID = "zNL-VI-5zX"; */
+"zNL-VI-5zX.text" = "上肢";
